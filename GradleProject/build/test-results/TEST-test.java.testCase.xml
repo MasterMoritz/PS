@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.testCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-12-14T18:45:56" hostname="Mushroom" time="0.012">
+  <properties/>
+  <testcase name="test" classname="test.java.testCase" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
